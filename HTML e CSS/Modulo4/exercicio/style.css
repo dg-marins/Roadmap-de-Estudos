@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: #333333;
+}
+
+strong{
+    color: red;
+}
+
+a{
+    background-color: green;
+    color: white;
+}
+
+header{
+    background-color: lightblue;
+    color: white;
+}
+
+p{
+    color: darkgray;
+}
+
+footer{
+    background-color: gray;
+    color: white;
+}
