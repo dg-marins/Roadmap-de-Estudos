@@ -4,11 +4,15 @@
 }
 
 body {
+    height: 100vh;
     background-color: black;
     color: #f6f6f6;
+    box-sizing: border-box;
 }
 
 .titulo-destaque{
     color: #22D4FD;
 }
+
+
 
