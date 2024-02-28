@@ -22,3 +22,10 @@ body {
 .urgente{
     color: red;
 }
+
+.foto-perfil{
+    margin: 15px;
+    border: 15px;
+    padding: 50px;
+    content: 50;
+}
