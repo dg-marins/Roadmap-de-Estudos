@@ -15,3 +15,10 @@ body {
 .texto-destaque{
     color: lightgreen;
 }
+
+.titulo-blog{
+    color: yellow;
+}
+.urgente{
+    color: red;
+}
