@@ -4,8 +4,10 @@
 }
 
 body {
+    height: 100vh;
     background-color: black;
     color: #f6f6f6;
+    box-sizing: border-box;
 }
 
 .titulo-destaque{
@@ -28,4 +30,26 @@ body {
     border: 15px;
     padding: 50px;
     content: 50;
+}
+
+.apresentacao{
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container2{
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+
+.responsivo-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
