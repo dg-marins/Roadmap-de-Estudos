@@ -56,9 +56,8 @@ body{
 
 .apresentacao__links a{
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    /* background-color: #22D4FD; */
+    justify-content: center;
+    gap: 16px;
     text-align: center;
     width: 378px;
     border-radius: 8px;
