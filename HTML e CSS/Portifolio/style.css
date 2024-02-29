@@ -48,17 +48,24 @@ body{
     justify-content: space-between;
 }
 
+.apresentacao__links__subtitulo{
+    font-family: 'Krona One', 'sant-serif';
+    font-weight: 400;
+    font-size: 24 px;
+}
+
 .apresentacao__links a{
-    background-color: #22D4FD;
+    /* background-color: #22D4FD; */
     text-align: center;
-    width: 280px;
-    border-radius: 16px;
+    width: 378px;
+    border-radius: 8px;
     font-size: 24px;
     padding: 21.5px 0;
     text-decoration: none;
-    color: #000000;
+    color: #F6F6F6;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
+    border: 2px solid #22D4FD;
 }
 
 .imagem_perfil{
