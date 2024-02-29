@@ -42,7 +42,7 @@ body{
     justify-content: space-between;
 }
 
-.apresentacao__links_link{
+.apresentacao__links a{
     background-color: #22D4FD;
     text-align: center;
     width: 280px;
