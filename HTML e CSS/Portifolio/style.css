@@ -6,7 +6,7 @@
     padding: 0;
 }
 body{
-    height: 100vh;
+    /* height: 100vh; */
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
@@ -17,7 +17,7 @@ body{
 }
 
 .apresentacao{
-    margin: 10% 15%;
+    padding: 8% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -51,7 +51,7 @@ body{
 .apresentacao__links__subtitulo{
     font-family: 'Krona One', 'sant-serif';
     font-weight: 400;
-    font-size: 24 px;
+    font-size: 24px;
 }
 
 .apresentacao__links a{
@@ -79,4 +79,14 @@ body{
 .imagem_perfil{
     border-radius: 10%;
     box-shadow: 10px 10px 10px #22D4FD;
+}
+
+.rodape{
+    color: #000000;
+    background-color: #22D4FD;
+    padding: 24px;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
 }
