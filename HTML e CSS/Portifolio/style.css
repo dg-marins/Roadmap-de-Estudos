@@ -55,6 +55,9 @@ body{
 }
 
 .apresentacao__links a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     /* background-color: #22D4FD; */
     text-align: center;
     width: 378px;
