@@ -54,7 +54,7 @@ body{
 }
 
 .apresentacao__conteudo{
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -93,7 +93,7 @@ body{
     justify-content: center;
     gap: 16px;
     text-align: center;
-    width: 378px;
+    width: 50%;
     border-radius: 8px;
     font-size: 1,5rem;
     padding: 21.5px 0;
@@ -113,6 +113,7 @@ body{
 .imagem_perfil{
     border-radius: 10%;
     box-shadow: 10px 10px 10px var(--cor-terciaria);
+    width: 50%;
 }
 
 .rodape{
